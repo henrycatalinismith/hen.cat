@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "doomfire": "git@github.com:henrycatalinismith/doomfire.git",
+    "hivernal": "git@github.com:henrycatalinismith/hivernal.git",
+    "homepage": "git@github.com:henrycatalinismith/homepage.git",
+    "moonrise": "git@github.com:henrycatalinismith/moonrise.git",
+    "notebook": "git@github.com:henrycatalinismith/notebook.git",
+    "spectrum": "git@github.com:henrycatalinismith/spectrum.git",
+    "tailbone": "git@github.com:henrycatalinismith/tailbone.git",
+    "zoetrope": "git@github.com:henrycatalinismith/zoetrope.git"
+  }
+}

@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"name": "doomfire",
+			"path": "doomfire"
+		},
+		{
+			"name": "hivernal",
+			"path": "hivernal"
+		},
+		{
+			"name": "goodword",
+			"path": "goodword"
+		},
+		{
+			"name": "homepage",
+			"path": "homepage"
+		},
+		{
+			"name": "moonrise",
+			"path": "moonrise"
+		},
+		{
+			"name": "notebook",
+			"path": "notebook"
+		},
+		{
+			"name": "spectrum",
+			"path": "spectrum"
+		},
+		{
+			"name": "tailbone",
+			"path": "tailbone"
+		},
+		{
+			"name": "zoetrope",
+			"path": "zoetrope"
+		}
+	],
+	"settings": {
+		"editor.rulers": [32, 64],
+		"editor.tabSize": 1
+	}
+}
