@@ -9,10 +9,6 @@
 			"path": "hivernal"
 		},
 		{
-			"name": "goodword",
-			"path": "goodword"
-		},
-		{
 			"name": "homepage",
 			"path": "homepage"
 		},
@@ -23,6 +19,10 @@
 		{
 			"name": "notebook",
 			"path": "notebook"
+		},
+		{
+			"name": "sandbox",
+			"path": "sandbox"
 		},
 		{
 			"name": "spectrum",
